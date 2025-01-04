@@ -1,11 +1,16 @@
 
 ***
 
-# Redacted repositories
+# [❌️ Redacted repositories](#-Redacted-repositories)
 
-- These repositories are private. Their names will be revealed in the future when they go public.
-- Almost all former and current redacted repositories have their redaction codes listed here.
-- Listing is as of 2025, Thursday, January 2nd at 01:32 pm PST.
+These repositories are private. Their names will be revealed in the future when they go public. Almost all former and current redacted repositories have their redaction codes listed here.
+
+- Current private repository count: 161
+- Private repositories made public: ~9
+- Unchecked/unaccounted for: 6
+- Total repository count: 176
+
+Listing is as of 2025, Friday, January 3rd at 04:47 pm PST.
 
 - [ ] REPO_NAME_IS_REDACTED: REDACTED[1]
 - [ ] REPO_NAME_IS_REDACTED: REDACTED[2]
@@ -175,11 +180,42 @@
 - [ ] REPO_NAME_IS_REDACTED: REDACTED[166]
 - [ ] REPO_NAME_IS_REDACTED: REDACTED[167]
 - [ ] REPO_NAME_IS_REDACTED: REDACTED[168]
+- [ ] REPO_NAME_IS_REDACTED: REDACTED[169]
+- [ ] REPO_NAME_IS_REDACTED: REDACTED[170]
+- [ ] REPO_NAME_IS_REDACTED: REDACTED[171]
+- [ ] REPO_NAME_IS_REDACTED: REDACTED[172]
+- [ ] REPO_NAME_IS_REDACTED: REDACTED[173]
+- [ ] REPO_NAME_IS_REDACTED: REDACTED[174]
+- [ ] REPO_NAME_IS_REDACTED: REDACTED[175]
+- [ ] REPO_NAME_IS_REDACTED: REDACTED[176]
+
+***
+
+## [🔜️ Upcoming projects](#-Upcoming-projects)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I have several upcoming projects that I currently can only list the abbreviations for:
+
+- CU
+- FaTT
+- FFDRY
+- G---2001
+- N2O
+- NG2001
+- W1
+- W2
+- ZS
+- NNA
+
+They are currently private. I normally don't keep projects private for this long, but I have special reasons for this.
+
+</details> <!-- End of Upcoming projects section !-->
 
 ***
 
 # File info
 
-**File version:** `3 (2025, Thursday, January 2nd at 01:32 pm PST)`
+**File version:** `4 (2025, Friday, January 3rd at 04:47 pm PST)`
 
 ***
