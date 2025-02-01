@@ -5,12 +5,12 @@
 
 These repositories are private. Their names will be revealed in the future when they go public. Almost all former and current redacted repositories have their redaction codes listed here.
 
-- Current private repository count: 187
+- Current private repository count: 189
 - Private repositories made public: ~9
 - Unchecked/unaccounted for: 6
-- Total repository count: 202
+- Total repository count: 204
 
-Listing is as of 2025, Monday, January 6th at 04:15 pm PST.
+Listing is as of 2025, Friday, January 31st at xx:xx pm PST.
 
 - [ ] REPO_NAME_IS_REDACTED: REDACTED[1]
 - [ ] REPO_NAME_IS_REDACTED: REDACTED[2]
@@ -214,6 +214,8 @@ Listing is as of 2025, Monday, January 6th at 04:15 pm PST.
 - [ ] REPO_NAME_IS_REDACTED: REDACTED[200]
 - [ ] REPO_NAME_IS_REDACTED: REDACTED[201]
 - [ ] REPO_NAME_IS_REDACTED: REDACTED[202]
+- [ ] REPO_NAME_IS_REDACTED: REDACTED[203]
+- [ ] REPO_NAME_IS_REDACTED: REDACTED[204]
 
 ***
 
@@ -244,7 +246,7 @@ They are currently private. I normally don't keep projects private for this long
 
 # File info
 
-- **File version:** `7 (2025, Monday, January 6th at 04:15 pm PST)`
-- **Line count (including blank lines and compiler line):** `251`
+- **File version:** `8 (2025, Friday, January 32st at 05:41 pm PST)`
+- **Line count (including blank lines and compiler line):** `253`
 
 ***
